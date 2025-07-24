@@ -326,7 +326,7 @@ def main():
     observing_O = False
     observing_X = False
     draw_line()
-    running = True    # 遊戲是否進行
+    running = True    # 是否繼續下棋
 
     while True:  
         while running:
